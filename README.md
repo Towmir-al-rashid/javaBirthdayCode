@@ -1,2 +1,3 @@
 # javaBirthdayCode
-I am uploading the Java code for extracting birthday date and month from some input from the user. Hope that it will be helpful for the others.
+This is a simple java code, that asks the users to choose among some sets of dates, after choosing from all the sets, the output is the birthday date and month of that particular user.
+
